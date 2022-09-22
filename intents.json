@@ -1,0 +1,36 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+     "responses": ["Mere Karan Arjun aagaye", "How’s the Josh? HI(GH) SIR!!", "Swaagat nahi karoge aap humara ?","Itna Sannata Kyu Hai Bhai?"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye, Bubye"],
+     "responses": ["Tussi ja rahe ho? Tussi na jao", "Ja simran ja jee le apni zindagi", "Accha chalta hoon, Duaon mein yaad rakhna","Pushpa i hate goodbyes","Picture Abhi Baki Hain Mere Dost","Kahin par pahunchne ke liye kahin se nikalna zaroori hai"]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+     "responses": ["Main Baburao, Baburao Ganpatrao Aapte", "Rishtey mein to hum tumhare baap lagte hain, Naam hain shahenshah","Mere baarein mein itna mat sochna. Dil mein aata hoon, samajh mein nahi","Kabhi Kabhi Lagta Hai Apunich Bhagwan hai"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["I am just a stupid common man waiting to clean his house!", "Rahul, Naam Toh Suna Hoga", "Insaan naam mein mazhab dhoond leta hai User sahab","Pushpa, Pushpa Raj.Main jhukega nahi, Saala"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+    "responses": ["Don’t underestimate the power of a common man,i mean BOT", "Hum Jahan khade hote hain,Help vahin se shuru ho jaati hain", "Ek bar joh maine commitment kar di.Uske baad toh main khud ki bhi nahi sunta", "Agar Kisi cheez ko dil se chaho toh BOT,tumhe help karne ki koshish mein lag jaata hai"]
+    },
+    {"tag": "createaccount",
+    "patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
+    "responses": [" Beta Tumse naa ho payega, majaak kar raha hu be, help karte hai hum","Balidaan dena hoga! Mazak hai be, phatt kaahe gayi tumhari","User Ke Aage Kuch Nahi, Khud Bhi Nahi"]
+    },
+    {"tag": "complaint",
+    "patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
+    "responses": [ "Tum nahi samjhoge user, kuch kuch hota hai,complaint sunkar", "Bade bade deshon mein aaisi choti choti complaints hoti rehti hai senorita, main karta hu solve","Ruko jara! Sabar karo"]
+    },
+    {"tag": "thank",
+    "patterns": ["thank you so much", "thanks", "thank you","Thankss","Thanks you","thank"],
+    "responses": ["Dosti ka ek usool hain madam,no sorry no thank you","Cheete ki chaal, baaz ki nazar aur bajirao ki talvaar par sandeh nahi karte","Ye Baburao ka style hai","Zindagi mein teen cheezein kabhi underestimate nahi karna I, ME and MYSELF"]
+    }
+
+]
+}
